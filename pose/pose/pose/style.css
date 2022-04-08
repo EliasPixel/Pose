@@ -1,0 +1,21 @@
+.user{
+  margin-bottom: -14%;
+  padding-left: 50%; 
+  padding-top: 10%;
+}
+.input-text{
+   font-size: 1rem;
+   margin: 0px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.record{
+    margin-bottom: -10%;
+    padding-left: 50%; 
+    padding-top: 15%;
+  }
+  .button-app{
+    color: red;
+    position: absolute;
+    bottom: 30rem;
+    left: 50%;}
+    
